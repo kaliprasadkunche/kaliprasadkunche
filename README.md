@@ -111,9 +111,9 @@ current_focus = [
 
 📧 Email: **[kaliprasadkunche@gmail.com](mailto:kaliprasadkunche@gmail.com)**
 
-💼 LinkedIn: [**Add Your LinkedIn URL Here**](https://www.linkedin.com/in/kali-vara-prasad-kunche-571327234/)
+💼 LinkedIn: [**LinkedIn**](https://www.linkedin.com/in/kali-vara-prasad-kunche-571327234/)
 
-🐙 Portfolio: [**portfolio**](https://myportfolio-1.ai.studio/)
+🐙 Portfolio: [**My Portfolio**](https://myportfolio-1.ai.studio/)
 
 ---
 
