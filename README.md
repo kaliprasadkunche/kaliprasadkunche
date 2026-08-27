@@ -1,5 +1,4 @@
 
-![Uploading ChatGPT Image Aug 27, 2026, 02_48_10 PM.png…]()
 
 # Hi 👋 I'm Kali Vara Prasad
 
